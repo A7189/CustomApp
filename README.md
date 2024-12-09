@@ -1,16 +1,9 @@
 # custapp1
+pragaza aji narpati
+mohon maaf izin pak karena saya ngoding memakai laptop yang baru jadi belum ada git nya akhirnya saya copy ulang ke laptop lama jadi untuk bagian asset kosong pak mohon maaf
 
-A new Flutter project.
+![Screenshot 2024-12-10 001917](https://github.com/user-attachments/assets/4b35ffdd-8865-4b12-850e-653e9ce42066)
 
-## Getting Started
+![Screenshot 2024-12-10 001944](https://github.com/user-attachments/assets/1edeba98-bb19-4090-be56-b99e57a7440a)
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot 2024-12-10 001933](https://github.com/user-attachments/assets/ed085260-bb0b-47a1-9ff9-5f9fa3faaa85)
